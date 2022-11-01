@@ -7,6 +7,7 @@ brew "git"
 brew "mas"
 brew "node"
 brew "postgresql@14", restart_service: true
+brew "wget"
 brew "git-duet/tap/git-duet"
 cask "clipy"
 cask "discord"
