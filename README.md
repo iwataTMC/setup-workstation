@@ -15,6 +15,7 @@ brew bundle
 ---
 
 > **Note**
+> 
 > Brewfileを削除する
 
 ```
