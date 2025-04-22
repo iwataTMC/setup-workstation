@@ -8,7 +8,14 @@ brew bundle dump
 
 - 新端末でインストールする
 
-Berwをインストールする
+新しいMacでAdminとは別に新しいユーザを作成しておく。
+
+https://support.apple.com/ja-jp/guide/mac-help/mchl3e281fc9/mac
+
+
+
+
+Brewをインストールする
 
 https://brew.sh/ja/
 
