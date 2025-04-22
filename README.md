@@ -8,6 +8,11 @@ brew bundle dump
 
 - 新端末でインストールする
 
+Berwをインストールする
+
+https://brew.sh/ja/
+
+
 ```
 brew bundle
 ```
